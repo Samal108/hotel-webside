@@ -1,0 +1,161 @@
+body{
+  margin: auto;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-family:  'Kalam', cursive;
+  color:#2C3639;
+
+}
+header{
+  display: block;
+  background-color: ;
+}
+.cloudimge{
+  position:relative;
+  right: 350px;
+  top:258px;
+}
+.cloudimge2{
+  position: absolute;
+  right: 300px;
+  top:116px;
+}
+.container-1{
+  padding-top: 100px;
+  background-color:#3CCF4E;
+  position:relative;
+}
+div{
+  display: block;
+}
+h2{
+  font-family: 'Dosis', sans-serif;
+  font-size: 2.5rem;
+  color:#1A4D2E;
+  padding-bottom: 10px;
+  font-weight: normal;
+
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+p{
+  font-size: 1.25rem;
+  line-height: 2;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-bottom: auto;
+  text-align: left;
+}
+.skill-1{
+  width: 25%;
+  float: right;
+  margin-right: 80px;
+  border-radius: 10px;
+}
+.skill-2{
+  width: 25%;
+  float: left;
+  margin-right: 80px;
+  border-radius: 10px;
+}
+.skill-3{
+  width: 25%;
+  float: right;
+  margin-right: 80px;
+  border-radius: 10px;
+}
+h3{
+  font-family: 'Nunito Sans', sans-serif;
+  color: #54BAB9;
+  font-size: 1.17em;
+}
+.contant-massage{
+  width: 40%;
+  margin: 40px auto 60px;
+  margin-top: 40px;
+  margin-right: auto;
+  margin-bottom: 60px;
+  margin-left: auto;
+}
+.buttonClass {
+  font-size:20px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:#0b0e07;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  box-shadow:inset 0px -3px 7px 0px #29bbff;
+  text-shadow:inset 0px 1px 0px #263666;
+  background:linear-gradient(#2dabf9, #0688fa);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.buttonClass:hover {
+  background: linear-gradient(#0688fa, #2dabf9);
+}
+.footer-link{
+  font-family: 'Sacramento', cursive;
+  color:#395B64;
+  margin: 10px 15px;
+  margin-top: 10px;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  font-size: 30px;
+  text-decoration: none;
+  text-decoration-line: none;
+  text-decoration-thickness:
+  text-decoration-style:
+}
+.footer-link:hover{
+  color: white;
+}
+.Copyright{
+  color:white;
+  font-size:0.80rem;
+  padding:20px 0;
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+}
+footer{
+  background-color: #3AB4F2;
+
+}
+.button-contener{
+  margin:0;
+  padding: 50px 0 20px;
+  padding: 50px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #D4F6CC;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}

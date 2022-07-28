@@ -1,0 +1,127 @@
+.top-container{
+  background-color: #5FD068;
+  image-orientation:right;
+
+}
+h1{
+  text-align: center;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  color:#3B44F6;
+}
+h3{
+  text-align:center;
+  color:#590696;#37E2D5;
+}
+.bottom-cloud{
+  text-align: right;
+
+}
+.top-cloud{
+
+}
+.hellow{
+  text-align: center;
+  color:#3EC70B;
+  font-family:cursive;
+}
+.myself{
+  text-align: center;
+}
+.body{
+  text-align: center;
+}
+.bottom-contant{
+  background-color: #3AB4F2;
+  font-family: cursive;
+  margin: 10px 15px;
+  font-size: 30px;
+  text-decoration: none;
+  width: rgb(255, 0, 0);
+    height: rgb(255, 0, 0);
+    font-family: 'Crimson Text', serif;
+    margin-top: 100px;
+
+}
+.get{
+  color:#1A4D2E;
+  font-family:   'Ibarra Real Nova', s;
+font-size:
+}
+.webside{
+  color: #0078AA;
+  font-family: 'Public Sans', sans-serif;
+
+}
+.love{
+  color:#06283D;
+  font-family: 'Cabin', sans-serif;
+}
+.link-1{
+  color:#4B5D67;
+  font-family: 'The Nautigal', cursive;
+    text-decoration: none;
+
+}
+.link-1:hover{
+  color: white;
+}
+.link-2{
+  color:#4B5D67;
+  font-family: 'The Nautigal', cursive;
+    text-decoration: none;
+
+}
+.link-2:hover{
+  color: white;
+}
+.link-3{
+  color:#4B5D67;
+  font-family: 'The Nautigal', cursive;
+    text-decoration: none;
+
+}
+.link-1:hover{
+  color: white;
+}
+.all{
+  color:#EEEEEE;
+font-family: 'Crimson Text', serif;
+  font-size:
+}
+
+
+
+
+.buttonClass {
+  font-size:20px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:#0b0e07;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  box-shadow:inset 0px -3px 7px 0px #29bbff;
+  text-shadow:inset 0px 1px 0px #263666;
+  background:linear-gradient(#2dabf9, #0688fa);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.buttonClass:hover {
+  background: linear-gradient(#0688fa, #2dabf9);
+}
+.bottom-contant{
+  margin: 10px 15px;
+    font-size: 30px;
+    text-decoration: none;
+}

@@ -1,0 +1,29 @@
+html{
+  background-color:#ABC9FF;
+}
+header{
+  background-color: #66BFBF;
+}
+section{
+  background-color: #9CB4CC;
+}
+*{
+  margin: 0;
+}
+
+h1{
+  color: blue;
+}
+.block{
+  background-color: green;
+}
+h3{
+  color: #1B2430;
+}
+.Image{
+  height: 200;
+  width: 200;
+}
+footer{
+  background-color: #A8A4CE;
+}
